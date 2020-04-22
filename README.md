@@ -1,8 +1,7 @@
 
-# さくらインターネット秘伝のおいしいタコ焼き
+# さくらインターネット秘伝のおいしいたこ焼き
 
- <img height="250" alt="サントリー角 ４Lペットボトル＋注ぎ口付きのミキシングジャグ＋じょうご（漏斗）" src="etc/tako_picture.png"> 
- <img height="250" alt="サントリー角 ４Lペットボトル＋注ぎ口付きのミキシングジャグ＋じょうご（漏斗）" src="takoyaki.jpg"> 
+ <img height="250" alt="たこのれん「さくら印のおいしいたこ焼き」" src="etc/tako_picture.png"> <img height="250" alt="たこ焼き焼き上がり" src="takoyaki.jpg"> 
 
 
 ## 最初に
@@ -214,8 +213,7 @@
 9. 個人的には、表面が360度カチカチになったら完成。
    串でこんこん、と玉をたたいて 確認しましょう。やけたかな？とおもってから意外とカチカチになるまで、時間がかかります。
  
-<img width="250" alt="準備完了１" src="ready1.jpg"> 
-<img width="250" alt="準備完了２" src="ready2.jpg"> 
+<img width="250" alt="準備完了１" src="ready1.jpg"> <img width="250" alt="準備完了２" src="ready2.jpg"> 
 
 
 ### とっても重要なポイント
