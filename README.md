@@ -1,7 +1,7 @@
 
 # さくらインターネット秘伝のおいしいたこ焼き
 
- <img height="250" alt="たこのれん「さくら印のおいしいたこ焼き」" src="etc/tako_picture.png"> <img height="250" alt="たこ焼き焼き上がり" src="takoyaki.jpg"> 
+ <img height="250" alt="たこのれん「さくら印のおいしいたこ焼き」" src="etc/tako_picture.png"> <img height="250" alt="たこ焼き焼き上がり" src="images/takoyaki.jpg"> 
 
 
 ## 最初に
@@ -121,7 +121,7 @@
 - **生地の水２Ｌ以下のファミリータコパを開催する場合** ご家庭に調理用「バケツ」とか「ひしゃく」とか、道具を用意するのがきついので、写真のような 大きなペットボトルを用意し 生地の材料を入れて そのまま攪拌するのがおススメです。
 （写真はサントリー角４Lペットボトルに「水 2L / 5～8人(100個)」の生地を作っている様子）
 
-- <img width="250" alt="サントリー角 ４Lペットボトル＋注ぎ口付きのミキシングジャグ＋じょうご（漏斗）" src="4LPet_Jag+jogo.jpg"> <img width="250" alt="サントリー角 ４Lペットボトルに生地" src="4LPet_kiji.jpg">
+- <img width="250" alt="サントリー角 ４Lペットボトル＋注ぎ口付きのミキシングジャグ＋じょうご（漏斗）" src="images/4LPet_Jag+jogo.jpg"> <img width="250" alt="サントリー角 ４Lペットボトルに生地" src="images/4LPet_kiji.jpg">
 <br />
 
 必要なものは、
@@ -179,7 +179,7 @@
 タコの下ごしらえを忘れずにやっておく(めんどくさい）。
 
 4. 具材の準備。タコを切る、または解凍する、ほかの具材を用意するならそれも。
-- <img height="200" alt="流水解凍中" src="cut_tako.jpg"> 
+- <img height="200" alt="流水解凍中" src="images/cut_tako.jpg"> 
 
 
 下ごしらえが終わったら、生地を休ませながら、設営をしましょう。
@@ -187,7 +187,7 @@
 5. たこ焼き台を置くところにテーブルクロスや、マット、新聞紙を敷いて養生テープで固定する
 6. 必要に応じて 足元にもブルーシート、新聞紙を敷いて養生テープする。
 7. 器材、食材をテーブルにセッティングする。
-- <img width="250" alt="準備完了３" src="takoyaki_RtA.jpg"> 
+- <img width="250" alt="準備完了３" src="images/takoyaki_RtA.jpg"> 
 
 
 ## 場所の設営
@@ -224,7 +224,7 @@
 9. 個人的には、表面が360度カチカチになったら完成。
    串でこんこん、と玉をたたいて 確認しましょう。やけたかな？とおもってから意外とカチカチになるまで、時間がかかります。
  
-<img width="250" alt="準備完了１" src="ready1.jpg"> <img width="250" alt="準備完了２" src="ready2.jpg"> 
+<img width="250" alt="準備完了１" src="images/ready1.jpg"> <img width="250" alt="準備完了２" src="images/ready2.jpg"> 
 
 
 ## 重要なポイント
